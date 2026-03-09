@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "a+i3hFurlzY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SpezialeSimone\\source\\repos\\GiocoSudoku\\GiocoSudoku\\GiocoSudoku.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SpezialeSimone\\.nuget\\packages\\documentformat.openxml\\3.4.1\\documentformat.openxml.3.4.1.nupkg.sha512",
+    "C:\\Users\\SpezialeSimone\\.nuget\\packages\\documentformat.openxml.framework\\3.4.1\\documentformat.openxml.framework.3.4.1.nupkg.sha512",
+    "C:\\Users\\SpezialeSimone\\.nuget\\packages\\microsoft.extensions.commandlineutils\\1.1.1\\microsoft.extensions.commandlineutils.1.1.1.nupkg.sha512",
+    "C:\\Users\\SpezialeSimone\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\SpezialeSimone\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
+    "C:\\Users\\SpezialeSimone\\.nuget\\packages\\spectre.console\\0.54.0\\spectre.console.0.54.0.nupkg.sha512",
+    "C:\\Users\\SpezialeSimone\\.nuget\\packages\\system.io.packaging\\8.0.1\\system.io.packaging.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
